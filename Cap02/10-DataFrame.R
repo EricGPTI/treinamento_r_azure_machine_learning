@@ -32,7 +32,7 @@ pesq = cbind(pesquisa, olhos)
 pesq
 
 
-# InformaÃ§Ãµes sobre o dataframe
+# Informações sobre o dataframe
 str(pesq)
 dim(pesq)
 length(pesq)
