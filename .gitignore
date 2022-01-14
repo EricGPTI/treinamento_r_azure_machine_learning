@@ -37,3 +37,12 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# DB Files
+dbs/
+*.zip
+*.csv
+
+
+# Arquivo com erro
+Cap03/TemperaturasGlobais/TemperaturasGlobais.csv
