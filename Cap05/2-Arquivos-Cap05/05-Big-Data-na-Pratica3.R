@@ -1,7 +1,7 @@
 # Big Data na Prática 3 - Mineração de Regra de Associação 
 
 # Esse é um material de bônus. 
-# Conteúdo sobre ese tema pode ser encontrado nos cursos: 
+# Conteúdo sobre esse tema pode ser encontrado nos cursos: 
 
 # Business Analytics 
 # Análise em Grafos Para Big Data
@@ -87,7 +87,7 @@ library(DT)
 # que pode ser baixado do kaggle, mas está anexo a este script.
 
 # Conectando no banco de dados
-con = dbConnect(RSQLite::SQLite(), dbname="database.sqlite")
+con = dbConnect(RSQLite::SQLite(), dbname="D:\\ProjetosDev\\treinamento_r_azure_machine_learning\\dbs\\Cap05_Files\\database.sqlite")
 
 
 # Obtendo a lista de tabelas
